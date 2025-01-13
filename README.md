@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Saurabh Dubey</h1>
-<h3 align="center">Passionate developer & QA Tester</h3>
+<h3 align="center">Passionate developer & QA Automation Tester</h3>
 <img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhdubey310&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhdubey310" /> </p>
